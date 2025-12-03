@@ -1,0 +1,21 @@
+Trip_ID,Date,Time,City,Pickup_Location,Drop_Location,Trip_Distance_km,Trip_Duration_min,Driver_Rating,Passenger_Rating,Fare_Amount,Payment_Method
+U001,2025-01-03,08:15,Mumbai,Andheri,Bandra,6.2,18,4.8,5.0,210,UPI
+U002,2025-01-03,09:45,Mumbai,Borivali,Powai,12.5,32,4.5,4.8,430,Cash
+U003,2025-01-03,11:10,Mumbai,Bandra,Colaba,9.8,28,4.7,5.0,360,Card
+U004,2025-01-04,07:55,Mumbai,Thane,Andheri,18.2,44,4.9,4.6,620,UPI
+U005,2025-01-04,12:20,Delhi,Connaught Place,Karol Bagh,5.1,15,4.2,4.4,170,UPI
+U006,2025-01-04,14:05,Delhi,Lajpat Nagar,Saket,4.5,12,4.6,4.9,150,Cash
+U007,2025-01-05,06:30,Bangalore,Whitefield,Indiranagar,22.3,48,4.9,5.0,780,Card
+U008,2025-01-05,10:40,Bangalore,MG Road,Koramangala,3.2,10,4.3,4.1,120,UPI
+U009,2025-01-05,18:50,Mumbai,Colaba,Andheri,14.1,38,4.7,4.8,510,UPI
+U010,2025-01-06,09:10,Hyderabad,Gachibowli,Hitech City,20.4,52,4.8,4.7,690,Card
+U011,2025-01-06,13:25,Hyderabad,Kukatpally,Miyapur,3.8,11,4.4,4.3,130,Cash
+U012,2025-01-06,22:30,Chennai,T Nagar,Velachery,10.2,26,4.9,4.8,350,UPI
+U013,2025-01-07,08:00,Chennai,Adyar,Anna Nagar,2.5,7,4.5,4.2,90,UPI
+U014,2025-01-07,16:15,Kolkata,Salt Lake,New Town,15.7,40,4.6,4.5,520,Card
+U015,2025-01-08,07:50,Kolkata,Park Street,Howrah,8.9,24,4.8,5.0,330,Cash
+U016,2025-01-08,15:05,Delhi,Rohini,Pitampura,6.1,17,4.7,4.6,210,UPI
+U017,2025-01-08,19:30,Bangalore,Electronic City,Koramangala,24.6,60,4.9,4.9,900,UPI
+U018,2025-01-09,11:50,Mumbai,Dadar,Powai,11.3,30,4.4,4.3,380,Card
+U019,2025-01-09,20:45,Hyderabad,Charminar,Gachibowli,21.8,55,4.7,4.6,820,UPI
+U020,2025-01-10,10:30,Chennai,Guindy,T Nagar,4.7,13,4.3,4.5,140,Cash
